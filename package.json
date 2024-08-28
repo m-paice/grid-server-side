@@ -1,0 +1,17 @@
+{
+  "name": "grid-server-side",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.7.5",
+    "canvas": "^2.11.2",
+    "node-fetch": "^3.3.2"
+  }
+}
